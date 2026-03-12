@@ -20,4 +20,4 @@ npm run dev
 ```
 
 ## Preview
-![Pokemon App Demo](preview.mp4)
+https://github.com/lucasciarinii/pokemon_api/preview.mp4
